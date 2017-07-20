@@ -2,4 +2,4 @@
 Chat and Game ( vainilla javascript )
 
 
-![Alt text](screnshots/main.png?raw=true “pantalla principal”)
+![Alt text](https://github.com/anderuraga/firebase-chat-game/blob/master/screnshots/main.png)
